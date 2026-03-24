@@ -52,7 +52,6 @@ This project follows a modular architecture with:
 For detailed documentation, please refer to:
 
 - [Setup Guide](./docs/user-guides/setup-guide.md) - Step-by-step setup instructions
-- [Project Progress](./docs/project-progress-updated.md) - Current status and next steps
 - [Documentation Guide](./docs/documentation-guide.md) - Overview of all available documentation
 - [Technical Requirements](./docs/technical-requirements.md) - Project requirements and constraints
 - [Architecture Overview](./docs/architecture/overview.md) - System design and architecture
