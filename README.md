@@ -65,10 +65,6 @@ For detailed documentation, please refer to:
 - **Technology Tracking**: Visual breakdown of technologies and skills across projects
 - **Content Management**: Streamlined interface for creating and editing MDX content
 
-## Development Status
-
-This project is in active development. For the latest status, see [Project Progress](./docs/project-progress-updated.md).
-
 ## License
 
 [MIT](LICENSE)
